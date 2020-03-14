@@ -15,4 +15,8 @@
       </None>
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="ActiveStudies.cs" />
+    </ItemGroup>
+
 </Project>

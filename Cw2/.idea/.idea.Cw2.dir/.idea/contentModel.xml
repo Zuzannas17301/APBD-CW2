@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\HP\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\HP\Documents\Github\zuzannas17301\APBD-CW2\Cw2" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Cw2.csproj" t="IncludeRecursive" />
+      <e p="Data" t="Include">
+        <e p="dane.csv" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Students.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="MCD" t="Include">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Cw2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+  </component>
+</project>
